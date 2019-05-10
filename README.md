@@ -15,3 +15,9 @@ Settingup selenium webdriver with virtualenv support.
 8. Now in that virtual environment ```pip install selenium```
 9. Download your choice of driver w.r.t your OS https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.8/
 
+
+
+
+##########To Run the File#############
+
+Python login.py
